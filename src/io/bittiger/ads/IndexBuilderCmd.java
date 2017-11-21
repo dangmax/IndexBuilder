@@ -7,13 +7,13 @@ import java.util.ArrayList;
 import org.json.JSONArray;
 import org.json.JSONObject;
 
-public class IndexBuilderBean {
+public class IndexBuilderCmd {
 	
 	public static void main(String[] args){
 		String mAdsDataFilePath = args[0];
 		String mBudgetFilePath  = args[1];
 		
-		System.out.println(IndexBuilderBean.class.getResource("/").getPath());
+//		System.out.println(IndexBuilderBean.class.getResource("/").getPath());
 		
 		IndexBuilder indexBuilder = new IndexBuilder("127.0.0.1",11211,"127.0.0.1:3306","searchads","root","dang");
 		

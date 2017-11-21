@@ -8,5 +8,11 @@
 	<classpathentry kind="lib" path="F:/study/background/week5/javalib/lucene-analyzers-common-4.0.0.jar"/>
 	<classpathentry kind="lib" path="F:/study/background/week5/javalib/lucene-core-4.0.0.jar"/>
 	<classpathentry kind="lib" path="F:/study/background/week5/javalib/lucene-queryparser-4.0.0.jar"/>
+	<classpathentry kind="lib" path="F:/study/background/week5/javalib/amqp-client-4.1.0.jar"/>
+	<classpathentry kind="lib" path="F:/study/background/week5/javalib/jackson-annotations-2.8.3.jar"/>
+	<classpathentry kind="lib" path="F:/study/background/week5/javalib/jackson-core-2.8.3.jar"/>
+	<classpathentry kind="lib" path="F:/study/background/week5/javalib/jackson-databind-2.8.3.jar"/>
+	<classpathentry kind="lib" path="F:/study/background/week5/javalib/slf4j-api-1.7.25.jar"/>
+	<classpathentry kind="lib" path="F:/study/background/week5/javalib/slf4j-simple-1.7.25.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
